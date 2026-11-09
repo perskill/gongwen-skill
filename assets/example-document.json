@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "profile": "internal-report",
+  "blocks": [
+    {"type": "title", "text": "关于开展办事材料精简试点的建议"},
+    {"type": "paragraph", "role": "recipient", "text": "单位领导："},
+    {"type": "paragraph", "text": "以下为虚构教学示例，不可作为实际工作情况引用。现有反馈提到部分表单重复采集同一信息，建议先核对具体字段和用途，再选择小范围开展试点。"},
+    {"type": "heading", "level": 1, "text": "一、明确拟试行的做法"},
+    {"type": "paragraph", "text": "拟梳理重复字段及其使用环节，保留确有必要的差异要求。试点尚未开展，不预设效率提升幅度。"},
+    {"type": "table", "header_rows": 1, "rows": [["事项", "目前状态"], ["牵头部门", "【待确认：牵头部门】"], ["新增经费", "尚未测算，不得写成0元"]]},
+    {"type": "heading", "level": 1, "text": "二、提请审定事项"},
+    {"type": "paragraph", "text": "建议原则同意开展前期梳理，并在具体范围、实施日期和经费需求明确后报审。"},
+    {"type": "paragraph", "role": "attachment", "text": "附件：待补事项清单"},
+    {"type": "paragraph", "role": "signature", "text": "【待补：报送单位】"},
+    {"type": "paragraph", "role": "date", "text": "【待补：成文日期】"}
+  ]
+}

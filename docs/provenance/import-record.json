@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "source_file": "公文写作与交付_通用版_v1.0.0.zip",
+  "source_sha256": "2478f7ac1d3955cab21f31a139122a3c0c6c631f0238253e2f6d7151fb2ffcec",
+  "original_version": "1.0.0",
+  "import_date": "2026-11-09",
+  "original_manifest": "original-manifest.sha256",
+  "original_manifest_entries_verified": 24,
+  "rights_confirmation": "用户于 2026-11-09 确认拥有包内全部版权和重新许可权；随后明确选择保留非商业许可。",
+  "current_license": "PolyForm-Noncommercial-1.0.0",
+  "note": "本记录如实记载用户确认与原包来源，未对外部权属文件独立取证。"
+}

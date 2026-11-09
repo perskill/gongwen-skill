@@ -1,0 +1,20 @@
+公文写作与交付 / draft-official-documents
+
+本项目从用户提供的「公文写作与交付_通用版_v1.0.0.zip」整理。
+原包 SHA-256:
+2478f7ac1d3955cab21f31a139122a3c0c6c631f0238253e2f6d7151fb2ffcec
+
+原包说明所列的上游包括：
+lieflat-gongwen — https://github.com/larashero3-dotcom/lieflat-gongwen
+参考提交：e0a5aba6b6ce66402aff799ea213af2d987d99dd
+许可：PolyForm Noncommercial 1.0.0
+许可全文见 LICENSE-upstream.txt。
+
+原包还说明参考了 gongwen V4 / integrated-writing-v4、
+tax-dsh V3 writing-first 与 WorkBuddy DOCX。
+这些名称用于如实记录来源，不表示本项目得到任何上游作者认可。
+原包没有提供所有参考素材的独立许可文件。
+用户于 2026-11-09 确认拥有包内全部版权及重新许可权，
+并明确选择继续使用 PolyForm Noncommercial 1.0.0。
+有关来源及整理记录，见 docs/licensing.md、
+docs/provenance/import-record.json 及 references/source-and-scope.md。

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "profiles": {
+    "internal-report": {
+      "label": "内部签报与汇报材料基础版式",
+      "notes": "单位已有模板时优先使用单位模板。本配置为可调整默认值。",
+      "page": {"width_mm": 210, "height_mm": 297, "top_mm": 30, "bottom_mm": 28, "left_mm": 28, "right_mm": 26, "footer_mm": 15},
+      "body": {"font": "仿宋", "size_pt": 16, "line_pt": 28, "first_line_chars": 2},
+      "title": {"font": "方正小标宋简体", "size_pt": 22, "line_pt": 30, "bold": false},
+      "headings": {"1": {"font": "黑体", "size_pt": 16, "bold": false}, "2": {"font": "楷体", "size_pt": 16, "bold": false}, "3": {"font": "仿宋", "size_pt": 16, "bold": true}},
+      "table": {"font": "仿宋", "size_pt": 12, "line_pt": 18},
+      "page_numbers": {"position": "center", "font": "宋体", "size_pt": 12}
+    },
+    "research-report": {
+      "label": "研究报告基础版式",
+      "notes": "适合较长分析报告；表格、引用和附件按实际内容组织。",
+      "page": {"width_mm": 210, "height_mm": 297, "top_mm": 24, "bottom_mm": 24, "left_mm": 25, "right_mm": 23, "footer_mm": 13},
+      "body": {"font": "宋体", "size_pt": 12, "line_pt": 20, "first_line_chars": 2},
+      "title": {"font": "黑体", "size_pt": 20, "line_pt": 28, "bold": true},
+      "headings": {"1": {"font": "黑体", "size_pt": 16, "bold": false}, "2": {"font": "黑体", "size_pt": 14, "bold": false}, "3": {"font": "宋体", "size_pt": 12, "bold": true}},
+      "table": {"font": "宋体", "size_pt": 10.5, "line_pt": 16},
+      "page_numbers": {"position": "center", "font": "宋体", "size_pt": 10.5}
+    },
+    "government-body": {
+      "label": "正式公文正文基础版式（不生成红头、印章和版记）",
+      "notes": "依据 GB/T 9704—2012 配置 A4、版心、正文字号、段首和单双页外侧页码；28磅行距为可调实现值，不是标准对所有页面的固定要求。标题字体可用性、每页行数、每行字数、页码距版心、附件及签章位置须另行核对。",
+      "page": {"width_mm": 210, "height_mm": 297, "top_mm": 37, "bottom_mm": 35, "left_mm": 28, "right_mm": 26, "footer_mm": 23},
+      "body": {"font": "仿宋", "size_pt": 16, "line_pt": 28, "first_line_chars": 2},
+      "title": {"font": "方正小标宋简体", "size_pt": 22, "line_pt": 30, "bold": false},
+      "headings": {"1": {"font": "黑体", "size_pt": 16, "bold": false}, "2": {"font": "楷体", "size_pt": 16, "bold": false}, "3": {"font": "仿宋", "size_pt": 16, "bold": true}},
+      "table": {"font": "仿宋", "size_pt": 16, "line_pt": 28},
+      "page_numbers": {"position": "outside", "font": "宋体", "size_pt": 14}
+    }
+  }
+}

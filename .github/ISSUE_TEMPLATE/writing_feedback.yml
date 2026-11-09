@@ -1,0 +1,17 @@
+name: 写作规则反馈
+description: 提供虚构案例，说明写作表现与希望改进的规则
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: 文种、读者、约束与材料
+      description: 使用虚构或脱敏输入，说明是否允许占位符。
+    validations:
+      required: true
+  - type: textarea
+    id: difference
+    attributes:
+      label: 当前表现与期望改进
+      description: 附能说明实际差异的短例子。
+    validations:
+      required: true

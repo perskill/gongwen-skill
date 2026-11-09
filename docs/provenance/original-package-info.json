@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "name": "draft-official-documents",
+  "version": "1.0.0",
+  "edition": "general",
+  "date": "2026-10-29",
+  "python_minimum": "3.9",
+  "optional_docx_dependency": "python-docx>=1.1,<2",
+  "dedicated_host_runtime_required": false,
+  "tax_module_included": false,
+  "tests_record": "tests/verification-results.json"
+}
